@@ -1,2 +1,2 @@
 # Ritur
-![alt text]([?raw=true](https://github.com/adindazaahraa/Ritur/blob/main/INTRO.png)https://github.com/adindazaahraa/Ritur/blob/main/INTRO.png)
+![alt text](https://github.com/adindazaahraa/Ritur/blob/main/INTRO.png?raw=true)
